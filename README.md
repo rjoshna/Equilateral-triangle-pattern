@@ -1,1 +1,1 @@
-# Equilateral-triangle-pattern
+# Loan Prediction
